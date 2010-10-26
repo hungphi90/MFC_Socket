@@ -9,7 +9,7 @@
 #define new DEBUG_NEW
 #endif
 
-
+//check hang nao ^^!!!
 // CClientApp
 
 BEGIN_MESSAGE_MAP(CClientApp, CWinApp)
